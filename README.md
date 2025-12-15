@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <div style="display:flex; flex-direction: column; justify-content: center; align-items: center;">
     <h1>Hi 👋, I'm Emmanuel</h1>
-    <p>A developer with no professional experience looking for a job opportunity.</p>
+    <p>SAP ABAP Developer</p>
     <br>
     <h2>Languages and Tools:</h2>
         <p>
-            <a href="https://developer.android.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                     alt="android" width="40" height="40">
-            <a href="https://kotlinlang.org" target="_blank"> 
-                <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40">
-            </a>
             <a href="https://getbootstrap.com" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                      alt="bootstrap" width="40" height="40">
@@ -36,16 +30,12 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                      alt="javascript" width="40" height="40">
             </a>
-            <a href="https://sass-lang.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                     width="40" height="40">
-            </a>
         </p>
         <br>
          <h2>My statistics:</h2>
         <p>
             <a href="https://github.com/ryo-ma/github-profile-trophy">
-                <img src="https://github-profile-trophy.vercel.app/?username=devmmanuel" alt="devmmanuel">
+                <img src="https://github-profile-trophy.vercel.app/?username=devmmanuel-ma&column=3&margin-w=15&margin-h=15" alt="devmmanuel">
             </a>
         </p>
         <p>
